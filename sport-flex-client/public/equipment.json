@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "image": "https://example.com/images/cricket_bat.jpg",
+      "itemName": "Premium Cricket Bat",
+      "category": "Cricket",
+      "description": "High-quality cricket bat made from Grade A English willow. Ideal for professional use with excellent durability and performance.",
+      "price": "150.00",
+      "rating": 4.8,
+      "customization": "Extra grip available with optional hit paper",
+      "processingTime": "5-7 Business Days",
+      "stockStatus": 25
+    },
+    {
+      "image": "https://example.com/images/cricket_gloves.jpg",
+      "itemName": "Pro Cricket Gloves",
+      "category": "Cricket",
+      "description": "Durable and comfortable cricket gloves with superior grip for enhanced performance and protection during play.",
+      "price": "50.00",
+      "rating": 4.6,
+      "customization": "Available in multiple sizes and colors",
+      "processingTime": "3-5 Business Days",
+      "stockStatus": 30
+    },
+    {
+      "image": "https://example.com/images/football.jpg",
+      "itemName": "Official Match Football",
+      "category": "Football",
+      "description": "FIFA-approved football with exceptional durability, performance, and consistency. Perfect for professional and recreational matches.",
+      "price": "50.00",
+      "rating": 4.5,
+      "customization": "Custom logo or personalized name print",
+      "processingTime": "3-5 Business Days",
+      "stockStatus": 40
+    },
+    {
+      "image": "https://example.com/images/football_boots.jpg",
+      "itemName": "Football Boots",
+      "category": "Football",
+      "description": "High-performance football boots designed for speed, grip, and comfort on all pitch types.",
+      "price": "120.00",
+      "rating": 4.7,
+      "customization": "Custom colors and player initials available",
+      "processingTime": "4-6 Business Days",
+      "stockStatus": 20
+    },
+    {
+      "image": "https://example.com/images/hockey_stick.jpg",
+      "itemName": "Pro Hockey Stick",
+      "category": "Hockey",
+      "description": "Lightweight and durable hockey stick designed for advanced gameplay and precision control.",
+      "price": "110.00",
+      "rating": 4.8,
+      "customization": "Custom grip or player name engraving available",
+      "processingTime": "5-7 Business Days",
+      "stockStatus": 15
+    },
+    {
+      "image": "https://example.com/images/hockey_gloves.jpg",
+      "itemName": "Hockey Gloves",
+      "category": "Hockey",
+      "description": "Ergonomic and protective hockey gloves with superior grip and flexibility for maximum comfort.",
+      "price": "45.00",
+      "rating": 4.7,
+      "customization": "Available in multiple sizes and colors",
+      "processingTime": "2-4 Business Days",
+      "stockStatus": 25
+    },
+    {
+      "image": "https://example.com/images/tennis_racket.jpg",
+      "itemName": "Pro Tennis Racket",
+      "category": "Tennis",
+      "description": "Durable and lightweight tennis racket designed for high-level performance. Great for both professionals and casual players.",
+      "price": "120.00",
+      "rating": 4.7,
+      "customization": "Grip size or string tension adjustment",
+      "processingTime": "4-6 Business Days",
+      "stockStatus": 15
+    },
+    {
+      "image": "https://example.com/images/tennis_bag.jpg",
+      "itemName": "Tennis Kit Bag",
+      "category": "Tennis",
+      "description": "Spacious and durable tennis bag for storing rackets, balls, and accessories in an organized manner.",
+      "price": "60.00",
+      "rating": 4.5,
+      "customization": "Custom logo or player name print available",
+      "processingTime": "3-5 Business Days",
+      "stockStatus": 20
+    },
+    {
+      "image": "https://example.com/images/hockey_helmet.jpg",
+      "itemName": "Hockey Helmet",
+      "category": "Hockey",
+      "description": "Protective and comfortable hockey helmet with adjustable fit and advanced safety features for player security.",
+      "price": "80.00",
+      "rating": 4.6,
+      "customization": "Custom colors and team logo print available",
+      "processingTime": "5-7 Business Days",
+      "stockStatus": 10
+    }
+  ]
+}

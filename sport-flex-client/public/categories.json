@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Cricket",
+    "slug": "cricket"
+  },
+  {
+    "category": "Football",
+    "slug": "football"
+  },
+  {
+    "category": "Hockey",
+    "slug": "hockey"
+  },
+  {
+    "category": "Tennis",
+    "slug": "tennis"
+  }
+]
